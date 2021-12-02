@@ -1,0 +1,33 @@
+.carouseImag{
+    width: 1000px;
+    height: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    min-height: 100%;
+}
+.carouseImag .left{
+    width: 5%;
+    height: 100%;
+    background-color:rgba(0, 0, 0, 0.6);
+    display: grid;
+    place-items: center;
+    color: white;
+    cursor: pointer;
+}
+
+.carouseImag .right{
+    width: 5%;
+    height: 100%;
+    background-color:rgba(0, 0, 0, 0.6);
+    display: grid;
+    place-items: center;
+    color: white;
+    cursor: pointer;
+}
+.carouseImag .center{
+    width: 90%;
+    height: 100%;
+    
+}
