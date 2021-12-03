@@ -14,7 +14,7 @@ return<div className="myDiv">
     <div className="search"><SearchBar placeholder2="Search..." data={Data}/></div>
     <div className="carousel"><Image/></div>
     <div className="reciprocal"><Countdown Timestamp={1643673600000000}/></div>
-
+<div></div>
     {/* <AdvertisingWall/> */}
 
 </div>}
